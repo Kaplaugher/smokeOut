@@ -96,9 +96,6 @@ googleAnalytics = ""
 		description = "Come buy our shit."
 		phone = "123-456-6789"
 		email = "smokeout@420blaze.com"
+		address = "4450 Hugh Howell Rd #3a, Tucker, GA 30084"
 
-	# Google Maps section
-	# [params.location]
-	# 	latitude  = "34.007850"
-	# 	longitude = "-118.499305"
-	# 	maps_api_key = ""
+	
