@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Smoke Out LLC"
+title = "Laurel Springs Animal Hospital"
 theme = "hugo-creative-theme"
 googleAnalytics = ""
 
@@ -29,7 +29,7 @@ googleAnalytics = ""
 
 	# Navigation
 	[params.navigation]
-		brand = "Smoke Out"
+		brand = "LSAH"
 
 		[params.navigation.links]
 			about     = "About"
@@ -41,7 +41,7 @@ googleAnalytics = ""
 	# Hero section
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
-		slogan     = "Smoke Out LLC"
+		slogan     = "Laurel Springs Animal Hospital"
 		subtitle   = "[Lorem](//google.com) ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis nesciunt consequatur ut nihil voluptatem fugiat eos eveniet alias in veniam?"
 		buttonText = "Check us out!"
 
@@ -59,7 +59,7 @@ googleAnalytics = ""
 
         [[params.services.list]]
             icon = "fa-diamond"
-            title = "Sick products yo"
+            title = "Great Stuff"
             description = "ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis nesciunt consequatur."
 
         [[params.services.list]]
@@ -69,12 +69,12 @@ googleAnalytics = ""
 
 		[[params.services.list]]
             icon = "fa-newspaper-o"
-            title = "420 blaze it"
+            title = "We love puppies"
             description = "Wipsum dolor sit amet, consectetur adipisicing elit. Blanditiis nesciunt consequatur"
 
         [[params.services.list]]
             icon = "fa-heart"
-            title = "Vape Nation"
+            title = "Yeehaw"
             description = "ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis nesciunt consequatur"
 
 
@@ -87,15 +87,15 @@ googleAnalytics = ""
 
     # Aside section
 	[params.aside]
-		headline = "Come smoke with us yo"
+		headline = "HElloooooo"
 
 		
 	# Contact section
 	[params.contact]
 		headline = "Let's Get In Touch!"
-		description = "Come buy our shit."
-		phone = "123-456-6789"
-		email = "smokeout@420blaze.com"
-		address = "4450 Hugh Howell Rd #3a, Tucker, GA 30084"
+		description = "Give us your money"
+		phone = "770-888-9750"
+		email = "something@something.com"
+		address = "3592 Old Atlanta Road Suite 103 Suwanee GA 30024"
 
 	
